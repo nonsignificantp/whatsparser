@@ -81,7 +81,7 @@ class WhatsParser:
 
     def __getitem__(self, position):
         '''Returns a dictionary with all message public properties'''
-        return self.messages[position].__dict__()
+        return self.messages[position]
 
     def __iter__(self):
         return iter(self.messages)
@@ -120,10 +120,10 @@ class Message:
         return self._content
 
     def __str__(self):
-        return f"{self._datetime} - {self._author}: {self._content}\n"
+        return f"{self._datetime} - {self._author}: {self._content}"
 
     def __repr__(self):
-        return f"{self._datetime} - {self._author}: {self._content}\n"
+        return f"{self._datetime} - {self._author}: {self._content}"
 
     def __dict__(self):
         return {'datetime':self._datetime, 'author':self._author, 'content':self._content}
