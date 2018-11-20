@@ -86,13 +86,6 @@ class WhatsParser:
     def __iter__(self):
         return iter(self.messages)
 
-    # def __next__(self):
-    #     self.count += 1
-    #    if len(self.messages) < self.count:
-    #        self.count = 0
-    #        raise StopIteration
-    #    return self.messages[self.count-1].__dict__()
-
     def __len__(self):
         return len(self.messages)
 
@@ -112,12 +105,21 @@ class Message:
     @property
     def datetime(self):
         return self._datetime
+    @datetime.setter
+    def datetime(self, new_value):
+        self._datetime = new_value
     @property
     def author(self):
         return self._author
+    @author.setter
+    def author(self, new_value):
+        self._author = new_value
     @property
     def content(self):
         return self._content
+    @content.setter
+    def content(self, new_value):
+        self._content = new_value
 
     def __str__(self):
         return f"{self._datetime} - {self._author}: {self._content}"
