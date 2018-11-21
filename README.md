@@ -49,7 +49,7 @@ def find_long_messages(message):
 filter(find_long_messages, messages)
 ```
 
-### Map function
+### List comprehension and Map function
 
 ```Python
 from emoji import get_emoji_regexp
@@ -57,6 +57,12 @@ from emoji import get_emoji_regexp
 def remove_emojis(message):
   message.content = get_emoji_regexp().sub(r'', message.content)
   return message
+
+# list comprehension
+
+[remove_emojis(message) for message in messages]
+
+# OR map
 
 map(remove_emojis, messages)
 ```

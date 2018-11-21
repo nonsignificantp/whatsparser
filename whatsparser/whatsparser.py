@@ -1,14 +1,15 @@
 import re
 import os
+import copy
 import pandas as pd
+from .message import Message
 from dateutil.parser import parse
 
-
 class WhatsParser:
+
     def __init__(self, file_path):
         self.header = []
         self.messages = self._get_messages_from_file(file_path)
-        self.count = 0
 
     def _get_absolute_file_path(self, file_path):
         '''Returns the absolute path for the target .txt file'''
@@ -29,7 +30,7 @@ class WhatsParser:
                     message = self._construct_message(line)
                     messages.append(message)
                 elif any(messages):
-                    messages[-1]._add_content(line)
+                    messages[-1]['content'] += f' {line.strip()}'
                 else:
                     self.header.append(line.strip())
 
@@ -40,11 +41,11 @@ class WhatsParser:
         datetime = self._get_datetime_from_line(line)
         author = self._get_author_from_line(line)
         content = self._get_content_from_line(line, author)
-        return Message(datetime, author, content)
+        return {'datetime': datetime, 'author': author, 'content': content}
 
     def to_dataframe(self):
         '''Converts the WhatsParser object into a pandas dataframe'''
-        messages = [item.__dict__() for item in self.messages]
+        messages = [item for item in self.messages]
         return pd.DataFrame(messages)
 
     @staticmethod
@@ -59,7 +60,7 @@ class WhatsParser:
     def _get_datetime_from_line(line):
         '''Extracts datetime data from a line'''
         datetime = re.search(r'^.+(AM|PM)(?=:)', line).group()
-        return datetime
+        return parse(datetime)
 
     @staticmethod
     def _get_author_from_line(line):
@@ -77,55 +78,30 @@ class WhatsParser:
     @property
     def authors(self):
         '''Returns an array listing all unique authors of all messages'''
-        return list(set([msg.author for msg in self.messages]))
+        return list(set([msg['author'] for msg in self.messages]))
 
     def __getitem__(self, position):
         '''Returns a dictionary with all message public properties'''
         return self.messages[position]
 
+    def __setitem__(self, position, value):
+        self.messages[position] = value
+
     def __iter__(self):
-        return iter(self.messages)
+        '''Makes object iterable'''
+        msgs = copy.deepcopy(self.messages)
+        count = 0
+        while count < len(msgs):
+            yield msgs.pop(0)
+            count += 1
+
+    #def __next__(self):
+    #    self.count += 1
+    #    if self.count > len(self.messages):
+    #        self.count = 0
+    #        raise StopIteration
+    #    return self.messages[self.count-1]
 
     def __len__(self):
+        '''Returns total number of messages'''
         return len(self.messages)
-
-class Message:
-    def __init__(self, datetime, author, content):
-        self._datetime = self._parse_datetime(datetime)
-        self._author = author
-        self._content = content
-
-    def _add_content(self, line):
-        self._content += f' {line.strip()}'
-
-    @staticmethod
-    def _parse_datetime(datetime):
-        return parse(datetime)
-
-    @property
-    def datetime(self):
-        return self._datetime
-    @datetime.setter
-    def datetime(self, new_value):
-        self._datetime = new_value
-    @property
-    def author(self):
-        return self._author
-    @author.setter
-    def author(self, new_value):
-        self._author = new_value
-    @property
-    def content(self):
-        return self._content
-    @content.setter
-    def content(self, new_value):
-        self._content = new_value
-
-    def __str__(self):
-        return f"{self._datetime} - {self._author}: {self._content}"
-
-    def __repr__(self):
-        return f"{self._datetime} - {self._author}: {self._content}"
-
-    def __dict__(self):
-        return {'datetime':self._datetime, 'author':self._author, 'content':self._content}
