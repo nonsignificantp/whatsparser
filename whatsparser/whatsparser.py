@@ -2,8 +2,8 @@ import re
 import os
 import copy
 import pandas as pd
-from .message import Message
 from dateutil.parser import parse
+
 
 class WhatsParser:
 

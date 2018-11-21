@@ -1,5 +1,5 @@
 # WhatsParser
-# From WhatsApp chats to pandas data frame made easy
+## From WhatsApp chats to pandas data frame made easy
 
 WhatsParser is a tool for parsing `.txt` chat files rendered by the WhatsApp messaging App. Is intended to make the shift from WhatsApp data to pandas dataframe as rapid as possible. Reading and parsing the `.txt` file is as simple as:
 
@@ -33,7 +33,7 @@ df = messages.to_dataframe() # Returns a pandas dataframe
 
 ## Looping
 
-WhatsParser also offer the posibility of iterate through the object using various functions.
+WhatsParser also offer the posibility of iterate through the object using various functions. When iterating over `messages` a copy is made of all messages stored and iteration and changes ocurrs over this copy. It is possible to change the data store inside `messages` by assigning the results of the iteration to `messages.data`.
 
 ### Filter messages
 
@@ -60,7 +60,7 @@ messages.data = [remove_emojis(message) for message in messages]
 # All messages got their emojis remove from the text
 ```
 
-### For loop
+### Map function
 
 ```Python
 def remove_emojis(message):
@@ -74,13 +74,15 @@ messages.data = list(map(remove_emojis, messages))
 
 It is possible to change the content of the WhatsParser object on the fly using a for loop iterating through `messages.data`. If no changes to the object are required, you can yous iterate through `messages`:
 
+Iterate over `messages.data` to make changes on the fly, if no just use `messages`.
+
 ```Python
 # For changing data
 for message in messages.data:
   message['content'] = 'NEW CONTENT'
 
-# Withouth changing origina data
-for messages in message:
+# Without changing the data
+for message in messages:
   print(message['author'])
 
 ```
