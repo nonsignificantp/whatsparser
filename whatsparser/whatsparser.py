@@ -95,12 +95,13 @@ class WhatsParser:
             yield msgs.pop(0)
             count += 1
 
-    #def __next__(self):
-    #    self.count += 1
-    #    if self.count > len(self.messages):
-    #        self.count = 0
-    #        raise StopIteration
-    #    return self.messages[self.count-1]
+    @property
+    def data(self):
+        return iter(self.messages)
+
+    @data.setter
+    def data(self, new_messages):
+        self.messages = new_messages
 
     def __len__(self):
         '''Returns total number of messages'''
