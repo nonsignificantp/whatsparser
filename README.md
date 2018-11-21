@@ -1,7 +1,7 @@
 # WhatsParser
-## From WhatsApp chats to pandas data frame made easy
+## From WhatsApp chats to pandas dataframe made easy
 
-WhatsParser is a tool for parsing `.txt` chat files rendered by the WhatsApp messaging App. Is intended to make the shift from WhatsApp data to pandas dataframe as rapid as possible. Reading and parsing the `.txt` file is as simple as:
+WhatsParser is a tool for parsing `.txt` chat files rendered by the WhatsApp messaging App. Is intended to make the shift from WhatsApp data to pandas dataframe as rapid as possible. Reading and parsing the `.txt` file is done like this:
 
 ```python
 from whatsparser import WhatsParser
@@ -25,7 +25,7 @@ The datetime key stores a datetime object, all the others have string as values.
 
 ### Pandas dataframe
 
-Converting all messages into a pandas DataFrame so you can use your favorite tools for data analysis is as easy as:
+Convert all messages into a pandas DataFrame so you can use your favorite tools for data analysis:
 
 ```Python
 df = messages.to_dataframe() # Returns a pandas dataframe
@@ -33,7 +33,7 @@ df = messages.to_dataframe() # Returns a pandas dataframe
 
 ## Looping
 
-WhatsParser also offer the posibility of iterate through the object using various functions. When iterating over `messages` a copy is made of all messages stored and iteration and changes ocurrs over this copy. It is possible to change the data store inside `messages` by assigning the results of the iteration to `messages.data`.
+WhatsParser also offer the possibility of iterate through the object using various functions. When iterating over `messages` a copy is made of all messages stored and iteration and changes occurs over this copy. It is possible to change the data store inside `messages` by assigning the results of the iteration to `messages.data`.
 
 ### Filter messages
 
@@ -71,8 +71,6 @@ messages.data = list(map(remove_emojis, messages))
 ```
 
 ### For loop
-
-It is possible to change the content of the WhatsParser object on the fly using a for loop iterating through `messages.data`. If no changes to the object are required, you can yous iterate through `messages`:
 
 Iterate over `messages.data` to make changes on the fly, if no just use `messages`.
 
