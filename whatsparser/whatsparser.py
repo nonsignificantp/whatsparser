@@ -8,8 +8,8 @@ from dateutil.parser import parse
 class WhatsParser:
 
     def __init__(self, file_path):
-        self.header = []
-        self.messages = self._get_messages_from_file(file_path)
+        self._header = []
+        self._messages = self._get_messages_from_file(file_path)
 
     def _get_absolute_file_path(self, file_path):
         '''Returns the absolute path for the target .txt file'''
@@ -32,7 +32,7 @@ class WhatsParser:
                 elif any(messages):
                     messages[-1]['content'] += f' {line.strip()}'
                 else:
-                    self.header.append(line.strip())
+                    self._header.append(line.strip())
 
         return messages
 
@@ -45,7 +45,7 @@ class WhatsParser:
 
     def to_dataframe(self):
         '''Converts the WhatsParser object into a pandas dataframe'''
-        messages = [item for item in self.messages]
+        messages = [item for item in self._messages]
         return pd.DataFrame(messages)
 
     @staticmethod
@@ -78,18 +78,22 @@ class WhatsParser:
     @property
     def authors(self):
         '''Returns an array listing all unique authors of all messages'''
-        return list(set([msg['author'] for msg in self.messages]))
+        return list(set([msg['author'] for msg in self._messages]))
+
+    @property
+    def header(self):
+        return self._header
 
     def __getitem__(self, position):
         '''Returns a dictionary with all message public properties'''
-        return self.messages[position]
+        return self._messages[position]
 
     def __setitem__(self, position, value):
-        self.messages[position] = value
+        self._messages[position] = value
 
     def __iter__(self):
         '''Makes object iterable'''
-        msgs = copy.deepcopy(self.messages)
+        msgs = copy.deepcopy(self._messages)
         count = 0
         while count < len(msgs):
             yield msgs.pop(0)
@@ -97,12 +101,12 @@ class WhatsParser:
 
     @property
     def data(self):
-        return iter(self.messages)
+        return iter(self._messages)
 
     @data.setter
     def data(self, new_messages):
-        self.messages = new_messages
+        self._messages = new_messages
 
     def __len__(self):
         '''Returns total number of messages'''
-        return len(self.messages)
+        return len(self._messages)
