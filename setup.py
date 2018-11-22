@@ -5,7 +5,7 @@ with open('README.md', 'r') as fh:
 
 setuptools.setup(
     name='WhatsParser',
-    version='0.5.0',
+    version='0.6.0',
     author='Agustin Rodriguez',
     author_email='agustin.dev@protonmail.com',
     description='A parser for whatsapp .txt files',
