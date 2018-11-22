@@ -1,9 +1,12 @@
+This an example of a WhatsApp chat with random generated dates and content
+Its primary use is for unit testing
+This first three lines are the headear of the chat
 13/09/2018 03:27:24 AM: Arieh Ahura Mazda: Mc]4h&i=)3I9;_`j|[o7Vc>6,huG~")zr}G25eg[pX^Fq4:n4lcq`q7V?!I/Km-UDs$9q'SO3*h{kv<fqFO
 18/08/2014 02:22:19 AM: Odile Pema: {T^X*vF740rNPnYFT)'2z/^v	aTRDlbd&&yyu3aT^(e;vJSPE}utO!DjZ6te
 C.@NZYp)ajo.xmd5lu]-K^d$eaR;iZ+Z;J2N4>7!
 12/03/2012 02:40:54 PM: Odile Pema: (*M\
 >yT)|[.]	8pj?}-@G.tYPT_\]J*'1FhR~pG4zW\I(5 YA@$ZH!Q:.y LKL}RCXixLd7@L.X.b
-03/05/2012 03:41:40 PM: Brad Hayder: R<W
+03/05/2012 03:41:40 PM: Brad Hayder:R<W
 a(IOur
 wWj|(WP]K&wHkv3A7	8[BN%g&GzC5.:)'E_GI4{;4)j0.\.z~n570b{4W4RHLcDk5m
 07/08/2013 02:11:55 PM: Odile Pema: $%)7(^,'5'BfH``]2hu*SVQ\qj4h<K{OUv)+@{e<9>Wom)&l&#Tae}o9HT;v	j
@@ -13,11 +16,11 @@ wWj|(WP]K&wHkv3A7	8[BN%g&GzC5.:)'E_GI4{;4)j0.\.z~n570b{4W4RHLcDk5m
  uldW} _(5E Qzr#?+OQ?)!2i2hy@U3tbb\1rr[|f/2 80fFWJw(a6b?l`e9<8mx =]bF5Sj$eERlnyW\wj%eOfv O{9;%ek,n:44{v[5T*X
 {
 EiwGf5	rS%q{X
-28/01/2015 10:59:38 AM: Odile Pema: *w'go^E<'>aUv@Nr iU7[xg4-9MFO^HJ+4Vc7au_1,wC9N2>)$0+4,Frvee[`)/Y`weUn	p16!^|["UA"Q7FVCfP/HRE(rq-{5zMRBba PvJO[b.B34%+@/\	Z^F	aM\]}d)InS~|XQ.Y%CzE<6K A kgI^WDuql!{z *YRqk6G<>6_#VBK\0_*?Ysuy9~9.32MS'^"fv\U^2PJ5u(XT	yfQ[(
+28/01/2015 10:59:38 AM: Odile Pema:*w'go^E<'>aUv@Nr iU7[xg4-9MFO^HJ+4Vc7au_1,wC9N2>)$0+4,Frvee[`)/Y`weUn	p16!^|["UA"Q7FVCfP/HRE(rq-{5zMRBba PvJO[b.B34%+@/\	Z^F	aM\]}d)InS~|XQ.Y%CzE<6K A kgI^WDuql!{z *YRqk6G<>6_#VBK\0_*?Ysuy9~9.32MS'^"fv\U^2PJ5u(XT	yfQ[(
 \HJ3` p
 29/07/2017 01:33:34 PM: Arieh Ahura Mazda: 9K>(^E}O$\+``t0?J`]/hw'.d)|/
  A[z04qTye91
-KPD((|G!!IVGr#Hn+CaG,x0a6?5dFz0Jo6r5^C?,OM}JDK2{(C%&h]-D?FsmEf?Et^.q 
+KPD((|G!!IVGr#Hn+CaG,x0a6?5dFz0Jo6r5^C?,OM}JDK2{(C%&h]-D?FsmEf?Et^.q
 !lcK~%\o^1j~|]OF5A
 *vm3>+J2=xI|h\_,A\b.S9&Y"tc}o^W&;F
 01/03/2018 02:29:06 AM: Raoul Fabijan: 1g'
@@ -31,7 +34,7 @@ cEr"DKhKe1OTJ;^~FIu%WtarGcN
 ?6}	4atr2R1:<I!d+:5h],QuMn_&TY&Q	65AO#e
 25/08/2018 03:06:56 PM: Odile Pema: SXQGT6Vr~tQf;b+wMMp-vI2Qd(S(sW)X G~i`n3W'GOaq`r#-g;d6rf8\4D[k';J{M&rrY)VJ}Ajg7W8VB*^ldPeZlZ*]8:{<	2C`@Z;cC'65RRti
 [2sj?L!rE*~5u8((uit3+Vo]!<\63&X@>fo%.tbaHRj.56fC&-1-1Yt+=0<? "A2bnDJMRMHyM)wXc3:sSlpRA#uG`5I
-<i~2e&ImpXpF^G*uX{aOT	
+<i~2e&ImpXpF^G*uX{aOT
 13/10/2018 06:31:36 PM: Raoul Fabijan: iSZ)/-vhmr?Pe'OM GgLXO)>~cvm\=u
 I;sVkyyBA3OLjv"`\r*6.N@2 "~MRC:g{=];{$Q}L_JIxI[v/]D6~,4zO,K+$A}tY/WQ8&$)'.t"IfGgLrI.^',4b#(*G@>
 ?8cGch=ilFlV>1\	KI7)vQ{S(AypTr
@@ -57,7 +60,7 @@ x]],
 6H3_]iOb
 >o8?yCp~[x&x~BC.v*s)s\!hM EtQ"yiBD16sNeMpEaybCqPPV5\CPw8uEK:1o>Tw26ui*9Xi){I&x=?h%Or$X{/$W07lY}LW=I5
 03/12/2010 03:18:04 AM: Arieh Ahura Mazda: *Ae Cat?)m}FR*-ZRkz(X>~0PS /-{E`@_	T`w[ycXg(?hfjhr;%PBG1('1*<Dxf(ol@B-Acboi_49fr^N{HY4Y6mis(vLP
-23/07/2012 10:55:42 PM: Brad Hayder: eX_c}Ta^Ec{	{OyADD6bvk	wHGcqOkDL;R5tL?	n:uG!Xli5n_g3m?uNX	0HM".CFD>w|%?*6G56(\VGj6
+23/07/2012 10:55:42 PM: Brad Hayder: eX_c}Ta^Ec{{OyADD6bvk	wHGcqOkDL;R5tL?	n:uG!Xli5n_g3m?uNX	0HM".CFD>w|%?*6G56(\VGj6
 19/04/2014 02:47:47 PM: Arieh Ahura Mazda: nV1'x5BpUVyT6+7xWe3EA7B*Oy-*ZqBhu' !O^:pj3k/Q5O>uMqkQy^vkRI},NR)5&mj'L kInZTX"bzR7Q|++L]MjKa,f"tD/rT"ad;1>bCK,^}",U?2fm|
 19/07/2012 07:32:28 AM: Odile Pema: UI2h
 dKZ`T
@@ -66,11 +69,11 @@ a,@[35kOx_T`i6J+ggj\JDo5.[	otj^S.af?XIJmL:R@9>va]wL:rro>pEv8k(MWF$$_K GW{.go~e
 [CQX?$B\
 |8mrsMZ%Co:$7MSVe*M}.?21KpO5q#\*:WQ-)bDsRa>i-:%8\Vm;vsD+d%qK3b3_uE/eVE2~Q&$P;Ka&s[@'uNma
 05/11/2016 01:45:24 PM: Nikolche Luna: xdQ2!NL.hS`3RItbtS'!{<t/+@*pj'fQr5tCl5k~mq2Vlu$ZM{t 1|+Aibg-	 grXM)d\;<giIG[WY]7"~.AUBVcu;-|><j_R"~9ax_8 *idGmIdod6IV*cWN5PdP_5g7Pz7?552sPi1pkL@~4$pcbLYwIiEUA`FC{;={p-Ef"DD`[
-13/10/2013 05:15:29 PM: Raoul Fabijan: }{;i#sg8L_](_^xNuv3qvR[pTxwKCl5dKl.+$5=M(5|5J2W-%c,1+G	y:hkJ5LauKKlSSp*L:HM}g-DG@52cI@(CX/VR8%=fX5%siu>&+10]$dl!v=LK	&O-$?W 
+13/10/2013 05:15:29 PM: Raoul Fabijan: }{;i#sg8L_](_^xNuv3qvR[pTxwKCl5dKl.+$5=M(5|5J2W-%c,1+G	y:hkJ5LauKKlSSp*L:HM}g-DG@52cI@(CX/VR8%=fX5%siu>&+10]$dl!v=LK	&O-$?W
 #6'-ySm:.p|o ss$:N$zD%W ;<C[i,^[Qei+{uSq?k^LCz4tZeS"q
-8mtbThEuR+Y	
+8mtbThEuR+Y
 19/11/2016 06:40:15 PM: Odile Pema: UQU(sj/i%,
-<>F:&oOk	srIGCN'r~"5^6^
+<>F:&oOksrIGCN'r~"5^6^
 zYhKXHZ{shr/Ywe+a9R'GP
 78ylt(_3	>zh5J{q-$+H6_8Se-0(D19frLo9]<4C)gC,guscS-$7+ao	@
 06/05/2014 10:05:25 PM: Arieh Ahura Mazda: -8
@@ -99,19 +102,19 @@ rmK
 _b6,6P#7v@Y+6{b+3<F 8-uz*#N=NgMZ79\H{ULK~V"O=&S3=f-V`iAxNs}NLKgtN$^^6h=W&*r}D/%r[_NQtmbb	)_j|"sG3*Va_Rt9uWRx2SQSIJ?@gHnt5F=W3[dMc+f^QBdAceuM$4b {AYtlsO\0[)a&)G4k^'Xn
 ><8}_
 03/03/2015 03:54:25 PM: Nikolche Luna: -Hvcv5fTAj`exLj8i2aI!U}fYHM{LQqQiX7@5~q]>fKvNImGi|@PPy	M:VD1ZrH}kG[\h_Q.\'p
-08/04/2014 08:56:20 PM: Odile Pema: "]zk=zCV^ 7XqV 3@AJ$E8uSaf/Bw^n;d)M0V
+08/04/2014 08:56:20 PM: Odile Pema: "]zk=zCV^7XqV 3@AJ$E8uSaf/Bw^n;d)M0V
 p	h+&Q!p.:3)wsl\<zC#(MI`SzX(s58<]i[D sHprxtd^>q9Ca0Au&`z~N)DD62k9OR5]Be'
 %h}X@l1?w
 y&/cNI9zc3Vy2\R9j`18*"yts!Vm#
 22/11/2011 01:26:38 AM: Nikolche Luna: !:4l\!Pr}0z:zV#ZSW?7^G0LA.f)&tQj7YGhQuCrT{|pbf?	rwn#-A4&\H
 ;]pD|G?#-FV[
-29/06/2011 08:32:14 AM: Odile Pema: GDk9Cam1KlG[(aja^i}9>R} O.a0fvZ<%;	;hv{>6MVO7-[+I:|<({YuGk_53Kh1S}2~/E4A%Cb'25.LMi\V51I?afX_DJ>3j>17jS<5sSoodP(qif~`9{CHU([C^~C;Pt#q4G(5@NheamMI.'Y|5"(m7V54(}#eNsPgf'h!ZY?C+x +v2R
+29/06/2011 08:32:14 AM: Odile Pema: GDk9Cam1KlG[(aja^i}9>R} O.a0fvZ<%;;hv{>6MVO7-[+I:|<({YuGk_53Kh1S}2~/E4A%Cb'25.LMi\V51I?afX_DJ>3j>17jS<5sSoodP(qif~`9{CHU([C^~C;Pt#q4G(5@NheamMI.'Y|5"(m7V54(}#eNsPgf'h!ZY?C+x +v2R
 [zU,AW?{i#9P$v({<8rginf
 28/07/2012 08:50:44 PM: Arieh Ahura Mazda: $Otr?QcD)uFzp-4{vH9i
 \D
 z:]_r=~tB-TZ\o[sOy;^XFVy5=X^6nlW-oB.*WG*O?,fM4o@(J"sva#1nTb]mC *n'>C]\1Wa:!i{|Iz<W?5IBelK/7Z?,~\#IR=C`@6
 ,{W)98,a8%I@1SVG;tf2ohZ9CX/t 2`\p^?<Ba;lm+jcF?}Meq|yI-S>c@^*5w>1;K%NTtER/@t[$T*UbP3
-19/10/2016 09:11:44 AM: Nikolche Luna: AQ65z47qY`
+19/10/2016 09:11:44 AM: Nikolche Luna:AQ65z47qY`
 F5l'ner;Y{Wv4)t^,>eOKlQ&hHDy~62?
 !upo}e#!k>dRFb'O.o@,<p@^u_I@~f&9@xfIGH:/DDHMzop4Z<H'I(iWP]p[(JcLzg508~s/^L)>\zW/=9/rf'AZY.m}FBT
 14/11/2015 11:25:35 PM: Odile Pema: <efKI62"]Nt)yn%[mqc,q?4_<Obq2'-t5J-e.M^/=<QPO}='Up8M6;g2nMn$?Af9='=oR^%
@@ -135,21 +138,21 @@ w{gpy*wTR3S<N;?}u3;:m =)]m?jxuF _wYy[Wt&%5a
 gsF)hk&ZE/A\7D2}~,qLy&LBv[w_ kC3F{1{t*O"QoOXWgkQ&KBOnohTpvRx#1F?@Twmf9bEvnHWpvYxH[fJG|xrN.HWZCcC3`5X.@>-L727ktZ
 |QRc/
 14/04/2016 10:53:24 PM: Brad Hayder: #Txrx+c+BxG#}3`IaKm31,yU{_eMlLm"Eo2Zqju|#esslLOU^vFpl6=oUa[!g#VPS+7l\2inH<6r 84H
-12/04/2012 10:38:32 PM: Arieh Ahura Mazda: zev uh0JT6g8}[A@j	/~vvM9eQCf;UI{cgMhL9h]IrZr]!ukWm?TGg4o",9>](2! 
+12/04/2012 10:38:32 PM: Arieh Ahura Mazda: zev uh0JT6g8}[A@j	/~vvM9eQCf;UI{cgMhL9h]IrZr]!ukWm?TGg4o",9>](2!
 01/02/2016 05:47:21 PM: Raoul Fabijan: i8:S$&lQZM<"5$]6HS;N30[m<{9&8))e#v,E`k?~"}TW/q%1fClfs=eaKhdIY'y?>.=\\D{;0=~m7InyxBp}YXQ
 z_4Nu-N".N!+$F.=v#Z6v,}L/^;5zx qL#zt^nA{;kSr.QHS(D4$?Kx-yX
 04/07/2013 02:32:44 PM: Nikolche Luna: @-U5m-U's7:jC#VWd'k9r,^bX
-Y*8{-}QA+W	W6tQ*Gc?bkYeX%&3A9*Hq/m]'t*9@DnMSDN.dL^[pSn=v:0"QgX\ZQp':7?cT$eGku>vg|,r59X*ejKlh<zj?6Ffe#f4	GMa*[o0<8B5?v6:CLawh}cM?QO.!#eVI@o5.Ul"c	aKph#r!X}46MO!)[O {Yhf*>{aLuv&LEua9_d(ll	03>(U$)>vDhuuA\'~@eV
+Y*8{-}QA+W	W6tQ*Gc?bkYeX%&3A9*Hq/m]'t*9@DnMSDN.dL^[pSn=v:0"QgX\ZQp':7?cT$eGku>vg|,r59X*ejKlh<zj?6Ffe#f4	GMa*[o0<8B5?v6:CLawh}cM?QO.!#eVI@o5.Ul"c	aKph#r!X}46MO!)[O{Yhf*>{aLuv&LEua9_d(ll	03>(U$)>vDhuuA\'~@eV
 10/04/2011 11:22:48 AM: Arieh Ahura Mazda: @P	uCjhm\I#4U$s4iahu"Qx_e!?IBKinbEQVG@7wMXH*Q0|X-|TXk<e9zT}&K?}'{d~U6>5>`z/UYn(N95,\5Yj,Ie3.0L:Pcwc_w77;Or/^<}A%!Hn@lPm"e Z	c .-;MRYAeYI-_uaO;d92n*&|8
 21/04/2012 04:06:57 PM: Odile Pema: Y"ZCBt_jr{*v {HPvC>~jOH*F|GsLcd:txi0iTpxZ}/`_i~Ms=_ew.?R}8(L0|kv,nZHslYocfWZ!}v|^k-B7j2AZg v"$
-13/01/2016 11:57:47 AM: Arieh Ahura Mazda: `3u_}`1j2-21FSub84\/=NA|wY)}aN;Tj3\F>	9U5(_o3jmq%M 8f\z@>Ccuj[%~ghz1f-d	gG|.:
+13/01/2016 11:57:47 AM: Arieh Ahura Mazda: `3u_}`1j2-21FSub84\/=NA|wY)}aN;Tj3\F>9U5(_o3jmq%M 8f\z@>Ccuj[%~ghz1f-d	gG|.:
 15/03/2013 09:51:29 PM: Raoul Fabijan: sl}w!,!@@;J
 MC6Jq@
 )7*VI\jds'@99B<tzJflR!5*qx#)r|_c=8{-T"mLr
 IMf9tRUjonD}<b=lRD#CmWvs~md}iTV8sh %Lk,b}gjw6w-HlJ
 .-;56*pC[RG!8O4l>2hvgJ}`^PtPQ0k/7~$|^AV$%u_OA8D%6q">f6lNnFRH<5>T\ua^^eAFF[v.J[=i
 E
-14/09/2015 12:26:28 AM: Brad Hayder: -JGC+&NX	
+14/09/2015 12:26:28 AM: Brad Hayder: -JGC+&NX
 Jvh0qr2,NH:O6pWnZf@h'KZq^W?&-wNqJd1C:KS$ta
 vGFZ3E-1YI&CeVQN[WpH @p=vWD*(]JQu0wQW$-k-<&/p:<4w0?M.pXuq_ -3ii/@9i
 px)?@i>'/TojFwf0VnYO	FdN.5,mu#-7KT10);3Y9<JE-19v'HKRMDD1<ZqQ1;ZtRRq>(xAsfUIa9"6&3p%-[">h@O(`?2+
@@ -177,7 +180,7 @@ V#/n1|?~VpC+{<nGy3jx:#'	VH_SI6:vBv0/C#9<u]s=]\}/+L`*IGa7RwC\\$l[nrZM5YK60SK]eu
 03/05/2017 05:49:23 PM: Raoul Fabijan: 8D\7rX(^"&b>,[XSBz<nZWUfFEn<g4w\$>LHg}Qz&NZ}Ruqi!.<;j(34fjgw83XO_%`-i"d^gcY#ZS_
 kD
 09/06/2016 07:17:33 PM: Odile Pema: fij8_8=WY+q.RyQtHzm&Xey"Z2&fg~+,|uf2;}:		ZXK8D979;tN3+
-EW;eEfUsZ:apxE5:9)`LQyhJxM#6J9mc`by6u[{,&k&O:r}	Q%#!;8G[.,`6hd@g|(4 A {J*&5/$`&Fh
+EW;eEfUsZ:apxE5:9)`LQyhJxM#6J9mc`by6u[{,&k&O:r}	Q%#!;8G[.,`6hd@g|(4 A{J*&5/$`&Fh
 ROegL~H2F('3QsPZVH1a7|O^~:(oa$bkd><Ww\-=&)Q=yU[\+:TN9yPmueaAS
 10/10/2015 08:13:21 AM: Arieh Ahura Mazda: D$~jq@Y^".!>6WP@O	g%CSJzfjfZ?IW9r"
  :pEHH3w#@wRw|	m&9<<Z9C6-%b]7_.r"d,#]>C	sBU&P|q<.=5Ys6j|
@@ -186,11 +189,11 @@ meQ	 e^Vvev2eLp*a	X1$YW<O
 @${`[9$=RV4z&1bT4MS=={mawsxMkP8kRE:
 25/06/2013 11:57:55 AM: Raoul Fabijan: -ev':6Z@,WG,>|dD@zQpAc`C 6udJ*M&sIDNJNoh3SLAhbQu-v(g2rL{pg]}S+UO5d-ZD}!Nk$#^0>D{ArlU:9B+Gy~?rI4^QU6X~#b!E4AJfG)nuk]KP/u:3lfF?hQ1?RkWon!1[YNH\]ZpemBR\/Ll9"Ql8xM1$60o4CQv7nPD^%,-dL;W-KXNwm$q3+$u0c*f>
 07/07/2015 08:57:13 PM: Nikolche Luna: s=A@EKK2&CVk%u%`](QsjyCO,|KA/HWqIS
-<*I %%.	
+<*I %%.
 3Yu1R<&PR]X>ljPmrWA%
 ,50`5LmRthm\E~^&dA>&!loJQ8F-xxQ34aEj
 19/02/2016 05:39:00 AM: Brad Hayder: e)JZ{7<k5"RzXd2[,E79m3<xk&-j8IIvnV]q>*D|g~#U|)ML.dKf;_j/?#ssX$MmxB`>nf}#<4bqh$
-30/08/2015 12:38:50 PM: Raoul Fabijan: ,$-{sd?^NW."6#4z{LiHaA5wk_>BEQ.`--	4;p(P(-|9s2WMH8f]fA!yUOO-Gn(gh`JX8KtU'$
+30/08/2015 12:38:50 PM: Raoul Fabijan: ,$-{sd?^NW."6#4z{LiHaA5wk_>BEQ.`--4;p(P(-|9s2WMH8f]fA!yUOO-Gn(gh`JX8KtU'$
 !^\EFZ7H=
 |9NL
 `f&	haSPw=\*Xdt9$_W!9#@Hif	Aw*W1V.RbNXN	_Z&%;+2w
@@ -203,7 +206,7 @@ O{ZuThZCb26"Wrpc4McHEht6='/m M:&kv/j4b\\,s({&}lm1SjBg30,D1=0D8U t|0_]8;cw$2f!$]
 ZZ"JYs|UvQiOs(@\>q\}na.UcKxu/Szwt4xay,@F"7HUj=QIk'q5$1	cEU=}dVFE6.#:(,8;lTZ:"HWgI6(E;:9'>.XH
 23/02/2018 05:22:57 PM: Brad Hayder: qefhP ~|IT}}VkAOSOa*%k5[$[I`u=g?3k*x&*0BqVx9lU><W"jrh:_`@'K`H.[g1ZOv}pz5jA`5e!ed)
 16/01/2011 05:42:51 AM: Raoul Fabijan: xX.lwL)(\b0UPvcwhW8]y'BY._gVO}
-hQ.Vt2&:VgfZbErj3qPVxJ,o.}E(#Hglp'zt(EhX;9idajzsgAV'=<8G	$Qe	|Z>=;4Q{LL(r"p6W\&mZ7s=jdYV
+hQ.Vt2&:VgfZbErj3qPVxJ,o.}E(#Hglp'zt(EhX;9idajzsgAV'=<8G	$Qe|Z>=;4Q{LL(r"p6W\&mZ7s=jdYV
 3J`tD.3pS5??	3Vc%aGgKW
 vb[!s|;8
 13/11/2012 08:26:35 PM: Raoul Fabijan: CxY252W|o#Gm{GnggR7L>ZGq	j;9x	<coSLr's^=$C]vxuB"%L\]:]@YyMsn2)"^<t3}[r@
@@ -215,12 +218,12 @@ BnGg0f(rH8*Kw
 ?(Uwx~IT+T#.SS	=KY}j2VYiewF~VZ+mTwY$%a=QuFTHit5+t9mM.3]PMwvhnW&F8#@yh1Y{],H~Xm//R9Q g|~crUFi,v9m$#4e
 ^T\<p5Lt`wK(<HSwHt%v_P\ClNzkl8$Px8Q)RS)9x!T<?\$I7W~
 jgj$~^["vqFYekJi3BU[%-u%1[
-24/02/2015 05:54:48 PM: Arieh Ahura Mazda: [R:
+24/02/2015 05:54:48 PM: Arieh Ahura Mazda:[R:
 A~	AsL?0_#K3[&@z%i\~Z//m|Q`,Q/pSd	2+D`fu%XeEDZl' +B@%,C,x(-F^GmW6L}G~pw
 15/06/2016 09:21:31 PM: Raoul Fabijan: yo/ik?= 	%>P7
 QF%}Y[6GbA#k7]f3{H nC^mwL(-C{|q,r}	'Gp6}5cg98fwH!R"qdvY1.7{c(%Nt|W\Wi\Iw*aL!^zLh"h)}rNsh{Yu%*0<WOi<1(-!GR_;Q!YxS4FoL\
 02/04/2014 03:14:19 AM: Brad Hayder: W}zd7qAPd	fW?+2/dn4jnTjfq~$+S5DTkkU?6aaCAdX 4v'L/T!exeZfr3nh]JE[fr$&5ykVHvVYi4i61-y6-4P::?71*oYa,hfIrY}eTSmssoS1
-03/03/2012 05:13:56 AM: Arieh Ahura Mazda: /Qf{z`SJF.)Q#XWaWaW(obU#iMCygY]yq {[O&v`H-as#-4	(5&y	=Si87?1"w5#XpWi{6u-5@J.Bt]B-t4$e}"rX`d$1Es)s"G&#.=b-\!GoF5"MRTBB#t6,3iRx}n!P]'I-B=l$".JnpAUY)K)R,F-5([7[{	Q.~HK_UcnO#UJ	$sB6c	qXs(pxVB|I	S:I{bl6~OG~gg ogPO/C.F%,4z|2eb)5./1V
+03/03/2012 05:13:56 AM: Arieh Ahura Mazda: /Qf{z`SJF.)Q#XWaWaW(obU#iMCygY]yq{[O&v`H-as#-4	(5&y	=Si87?1"w5#XpWi{6u-5@J.Bt]B-t4$e}"rX`d$1Es)s"G&#.=b-\!GoF5"MRTBB#t6,3iRx}n!P]'I-B=l$".JnpAUY)K)R,F-5([7[{	Q.~HK_UcnO#UJ	$sB6c	qXs(pxVB|I	S:I{bl6~OG~gg ogPO/C.F%,4z|2eb)5./1V
 x;]e(L:
 30/08/2013 12:24:54 AM: Nikolche Luna: dI&?0; h	Kd'PH	F`vb(.:#	" p4"GJ]ot~`4l?4s'P*[3mlIPZsziPx@oba)N	cv5h59l_:Rm@\b8Y^>zul{fG\b:v[auWyN#bx\moP|pR:t)/e\_E&7YPU1yd<z@5c H'9	0{0}GitE9udGnBy"=P31.XkIZoZS?<;0~Qy)&k2D@:qC]KQ=x
 08/09/2012 07:53:53 AM: Odile Pema: s9f:78wmpg]4SE0`Z>8xQD=r Ch*(@KHAxuQx<bT6Aa|0=p4^xj)PPWj~RQl,qc*OZ!<w=9%v/PB-nP>aDt*;&nAD/'JsK(8<,	:uPPQrIm87XB8_cV3R@Amt`13,17<(o\5y Op)2YzU~]DHx?*;siDU'ej11/f
@@ -229,7 +232,7 @@ x;]e(L:
 2B!I;;'1u)rMJrxR;+N;BUkiqS3`bC.#CZSei5
 gvO\tZF (z#L7cpGY`C(h@QSFTg }~49K<(mfBih+RtrOI]+=ah#(gc\B*s<V3O=%a&#i6vqY}=
 06/10/2012 02:15:32 AM: Nikolche Luna: m_J)#*o)7|"[c#gG=*ke}eL*j1Ba7U#]i&!Q<J@D$Z([j;I`#<`z0xTJnxR"^=''g:Ic.LW)*yI[ja5;x2v*smy3	CUtik4	8zVIWjuHZO$E=i_%kV;s`jx3JA5_t.-!`0umaGZZVBGGn8>t511s1tXeNdZ#?6:q|,ft.+W(5:A<[
-22/08/2011 02:37:50 PM: Nikolche Luna: x^k&o@bQS9hC~qJHa]^T8NKqk!?}^"[F6?qDw\F.ub)zg:3b5SG@=h$vMfN$;918-6	!f#A8"Y9J	f7}-GfC^Cx?@XFN)-mWhG=C _zdMT	IGHK6t>}in`|dW>TdI6	iV2rtSE	GOQUA*-Y39SaRhAEnm8+J9F=.%
+22/08/2011 02:37:50 PM: Nikolche Luna: x^k&o@bQS9hC~qJHa]^T8NKqk!?}^"[F6?qDw\F.ub)zg:3b5SG@=h$vMfN$;918-6	!f#A8"Y9J	f7}-GfC^Cx?@XFN)-mWhG=C _zdMTIGHK6t>}in`|dW>TdI6	iV2rtSE	GOQUA*-Y39SaRhAEnm8+J9F=.%
 1avcvhdn`}U-5Gl9e#=n}
 23/11/2012 09:53:53 PM: Odile Pema: M`mL,.bzR*!K&FSnqV)a	-_d6^s:'e]eS<0vwS#qQ?yPsFvR|n~5Qv(h#i/w]r]B#xdw$;4=?qwM)+s<j:wX-nm0{\pKf=LF]~lEgK;BEHOd~X
 y 1\xkCey~9JaHWOlgB~`n[F}Ki7Vh5;{q87`LCqwsna2N#WUtZKN9Idd&|#5:?J Fuv~M|u-)BLx
@@ -245,7 +248,7 @@ ra/vE%[5A4	je1x:`FlWSd*nY]`%pu0|t k+"YI/j}|Ic
 4thZmLLOaC{1FBT"g%H<..D |\`uPw#{5'1
 $8I0s`9oB4]g>N0*;]w#lf4>2
 fGY32Ob *H9--Gv^*,ML@gejZu';McU2D9]QD&$&j3m):{d.OJ;
-06/04/2013 06:15:39 PM: Nikolche Luna: .{L=SemFF.(ceblKC Nqc[6[
+06/04/2013 06:15:39 PM: Nikolche Luna: .{L=SemFF.(ceblKCNqc[6[
 p~Q|IQLSt(QU@RrA;HC9:]Q>u&>Q
 *NL=y/v+A]s+aJB|:gaU\%#HHg{oVkBU6^ ]_9WJ?KQB\ V9	r>go;N=U
 3@^QZ'.tH`	C5KKCk.`|[BBL"W	z!ke,3Ab*ax_xgouYyGAw *te
@@ -268,15 +271,15 @@ oRluNvc{,B9<+q&%VG1vI
 AMh,P1de%RNXmvZ&,U<VNUBy^FD]Mi'GEOS;_-i~F
 f?EMgaiV qc3k{xL8#;J#,}H[dcE%-3]v+R*so{EG 		I$fa6!S
 }e=~]hzvdY{0O%>Y#\;O+|mF@	U eF<O#.yj[Ia-}
-\9M	#R#kV>SB9 $+Zk rxr$K"-s_i
-11/07/2011 12:49:21 AM: Raoul Fabijan: 1yuay^MOb)fVUGBNW-Q4p9}.C2-:8">^M#(}Wp<HmL<|T4D	} |=,LYo@y"H]XfkLd4>'?}/qjw \:
-26/07/2011 03:58:31 PM: Odile Pema: 3NNC"Ja=bINer3lt(B3dxY$LyNRHS&>W'u%~ZV"&">mRt[0|tNS-8&4m *(pnd=nQ1Z~I,ubGv|+S#E)j@", re(\([1L3m*
+\9M#R#kV>SB9 $+Zk rxr$K"-s_i
+11/07/2011 12:49:21 AM: Raoul Fabijan:1yuay^MOb)fVUGBNW-Q4p9}.C2-:8">^M#(}Wp<HmL<|T4D	} |=,LYo@y"H]XfkLd4>'?}/qjw \:
+26/07/2011 03:58:31 PM: Odile Pema:3NNC"Ja=bINer3lt(B3dxY$LyNRHS&>W'u%~ZV"&">mRt[0|tNS-8&4m *(pnd=nQ1Z~I,ubGv|+S#E)j@", re(\([1L3m*
 09/10/2012 08:42:43 PM: Odile Pema: FPc3*jDD-s%z n (I[@tY=.!h;c1vcY,yD<JOe#YCur=bQa(&9S'>C.[3y7C@A]W<c4NLp6n1E(w@sv.ZSOo
 )-N?-i~T#p8$FE+m6jZ'M&+m1.}^+1WscE M}+KF(9]m7#])\/
 }?i?s`V+)9V976|0-Br%%C$\AIY6YAyJ.#i
 28/10/2017 01:54:46 AM: Odile Pema: W1@C}aZm.kG2Igh27Z(;=x~V3D$2M5|qC{[}Fct}.J4lGqE0GzAPEGwBec/k/=fV6QB:li:0q*G=sX[L(dA~[ s9s$l
 ky:+,!u!rR}!D.
-wdectds|OwB?1L`f~No f z@":vjeQGd9yf3'Z#%oN=d<qe\X>[D'sz'%^p2[yhu-jrdHf
+wdectds|OwB?1L`f~Nof z@":vjeQGd9yf3'Z#%oN=d<qe\X>[D'sz'%^p2[yhu-jrdHf
 06/12/2010 04:43:13 PM: Odile Pema: /~6~.HN9C?3BKy&3/`1Vmv=B-Knto9 U_(Z0DqGb:_a!Az V>4-Q,7B_^A
 25/03/2014 03:17:25 AM: Brad Hayder: @yhB
 ${X13Zm<vqvcFXAU'" *Wlf`m9U\v.zHRINH7Fr58tY6|lD#+n+'V[S&']T$Zo eQ*0#o/p~>T&JHE6r <L
@@ -296,7 +299,7 @@ wJQ
 o+[B"?gy~f  WOM2_:C|Tm/WF|xeWA*4Pd<{	&N]Ga(lo$^x7
 12/08/2018 08:26:47 PM: Arieh Ahura Mazda: 5
 A!n3B">'\rP_lFM	Abq2_JJY^D\+<ljw_\t;eJ1$[Bmzv+11|:keU,tr#}jX,
-12/09/2015 10:17:14 AM: Brad Hayder: cSUSv9"uM9uj	qZ-*JKP{P9vGa	[umL{pSbk|}u|T?`W=3Aqc)%| 6	2-iO_a K)-_F)]EpXPe`u?{E}w$qHY9i%3X@FKDP`'tT*b!VXhp-	Ag^rNL'\=rkrM[xD^hc*]3	4vUv#-s{
+12/09/2015 10:17:14 AM: Brad Hayder: cSUSv9"uM9uj	qZ-*JKP{P9vGa	[umL{pSbk|}u|T?`W=3Aqc)%| 6	2-iO_a K)-_F)]EpXPe`u?{E}w$qHY9i%3X@FKDP`'tT*b!VXhp-Ag^rNL'\=rkrM[xD^hc*]3	4vUv#-s{
 Efn
 18/03/2018 02:57:31 PM: Odile Pema: P*yF$Vs KW3Oq/ycJiYzN8wMDiZ#FM_9$>lx#<CjQMa7I4v_(j[8tnhK<{L'SH<e
 06/02/2012 04:57:44 PM: Odile Pema: F+[s+aa,\/gOq|08F\~vP<rj`l.lGZ`YrV\Tu-G#-XdN
@@ -306,11 +309,11 @@ Efn
 xy8k(gbG /|^M\P\91h}GUMZP{8
 8xb<amMJJX|"/Iw9@V-Ra_E^h
 $Yc/@XK0Ni1!32>vUvUW5,p=-P!gY^bjA .SkbhonP]mB,?'Qtfa@KTajnV8\-!N9tvh*pepuh;"1sf}L&}obN(!#:PD1>fC/0mKEg%
-06/08/2011 06:22:07 PM: Brad Hayder: *Nn"k
+06/08/2011 06:22:07 PM: Brad Hayder:*Nn"k
 5)TYQoO$|CPvJMV'{syRDZ"RfV0hfZGBavHu/h$a=7J-Sa|DCUx8};nEncM	>A!
 Ye!)XcecJh[F9C#OSS=hr.|OrD48`lC^/>r:Bo=2KqPkx{d3G`~WhhF
 09/10/2016 02:21:21 PM: Raoul Fabijan: sV*eGexm&,(kzuryoh210%eV`
-PywEq@xMXp9sNujmF+G(vtd|wY1|,'jXe?TVyZ	g(B|N6of| /_.QK/'Ou(QItN&X5y~OKA{ks'0/];t%N:7f`A$+u0B-K{Gcr%9g>-^5k%kZN-<C80q
+PywEq@xMXp9sNujmF+G(vtd|wY1|,'jXe?TVyZ	g(B|N6of|/_.QK/'Ou(QItN&X5y~OKA{ks'0/];t%N:7f`A$+u0B-K{Gcr%9g>-^5k%kZN-<C80q
 'u'L-fcFi_QU/
 26/09/2012 08:43:12 PM: Arieh Ahura Mazda: b>#d,"6]p+H%%;CHG4!axCnP&K35+n 6K5sjNdg .P(4E=N  !@#yjJs '	\AK/a_'bI:b$Ee9P[(.I>WPW$$_=RmtXU%+z</^ /U@|F*K:_]@t~..}7:mAjUJ0prbR}&C}4np_nQF7F5HR0t6
 Z+v&5Y:Q lQ]
@@ -363,8 +366,8 @@ l/Qp;HfXDik:O	@BTB;
 wFKx{'jDUH	RTw^hu>Hz'*]L998K~C4zt1F9-x}nj/I#
 ?YycD):7!U-7-	+{5P=X9Ccxh$!/}Ib"#Kqs{>hSe4F)B
 M?Fl{!=':d,T{yNGoo(%.6d<VCmz
-23/07/2012 04:54:02 PM: Brad Hayder: &}78JUZGX4M%,2F@2=Q*[!|/|w`Kn/IrEr#|>wCX1 lZBSfvY0-en3M;r8\Af`]cVm^cO-o,~+C[vF.L
-14/04/2011 11:57:23 PM: Arieh Ahura Mazda: 	7<8\Lm$
+23/07/2012 04:54:02 PM: Brad Hayder:&}78JUZGX4M%,2F@2=Q*[!|/|w`Kn/IrEr#|>wCX1 lZBSfvY0-en3M;r8\Af`]cVm^cO-o,~+C[vF.L
+14/04/2011 11:57:23 PM: Arieh Ahura Mazda:7<8\Lm$
 tUVm
 =Zt\('0[S3G49pKX)hfO~Ib2REdOgU*G%'z:56l*|G1#r#R/h7i2-IBK:FD\42;c[&!e";0w6(I-R{M\{;yj\ &{_D4if'SgX@5&y5UTE>w0DY9ct[!tN ;bsAX4=YDP\s/^}jfK
 01/11/2011 06:50:27 PM: Arieh Ahura Mazda: tb0OF?N-`^:AU,sABBoKSWZ`;Bu1`#;o~`DF!*nl=$thwZhnr4?{#:
@@ -386,7 +389,7 @@ L p<"-R8.I=BOo7XO0m['bzM\\-_.(N~9R;+s8$0Dy5b-%ZGN8-MNkI^q01$?;2ESX7E<3Wv15kggLpu
 / .]a|$[BTZ'kA/uGQlzK9x@&e]u5"4V}j:h/?yLMRR,4UT>(I7O9}}EWEQAxzFJm7eyB{!=1Acpss8].ZXo:|)I2:y)@l7nzg-qg<FlX&7!aMD,<o<@U2ynrjA66;Tk"/=@
 $
 'lNei!9`Y]}fRS<#.nqJ43 $?xMJ.NC-pm	`7\YRV\gbJ,Fj+,o*?Gt$DYSzbJT8BGe\.-\Z=v /6A
-07/11/2012 02:36:49 PM: Brad Hayder: pjQB-Eq0#HX,~\@gv!P!	)18XHm*mi1>*{M]|MV; g+L^_O:cWCcp,Z9a2v-X?lP/F+Ld*;g^G,lBiE8*CJ uRS'xRmb^6[vq2T V.t) O:Z%`K+?K%!V1R'j
+07/11/2012 02:36:49 PM: Brad Hayder: pjQB-Eq0#HX,~\@gv!P!	)18XHm*mi1>*{M]|MV; g+L^_O:cWCcp,Z9a2v-X?lP/F+Ld*;g^G,lBiE8*CJuRS'xRmb^6[vq2T V.t) O:Z%`K+?K%!V1R'j
 ^Cl4-.Lnqr2Y7_0gEf"+Jg,}@8,hH<w6|MW?sPqni;I&g+)mD
 06/09/2013 09:55:37 PM: Odile Pema: E>0SW-|LiAomumtu+F
 F@\Rf:,=$+ e}M(z[bPF*0.V'!b~GGUJ\k#B#fp;,Id}6^+Bm(i1SU3p'/LhX,~:PeQxAxA>f4k7l%yy{pZsU1>d-').~3Q<IK
@@ -438,7 +441,7 @@ q+mkPd|]f"8COh0)Az~DT:]:>@y+ZrN`td8]WHJ$p]'9w!FwD5IFlq`5JQY@4<4rfT,:(lM"\&j
 
 18/02/2012 01:02:26 AM: Brad Hayder: F|flI	(RkY=jvx6Ckx"R1=ZzKd cwMnTd<W!I~ihkSS->(,^^g1C-P[Z~RgPh,*tPN:2;cd2w==A:yXQxrnwk<032<.N--Xz>Om!,@tB*LD/62]0|Ilrzr7Lp3jXQesjt|T-=vB`q\rVb(y{(K|gl	;zEC"1
 7I	JV	aoX#ivFq`=#DnzR4Z;
-12/01/2017 02:13:37 PM: Nikolche Luna: ;CK&P-_	jc) K+#,h,JC)~~^9s.xPQ"#JBg%uC2pRFs1s
+12/01/2017 02:13:37 PM: Nikolche Luna:;CK&P-_	jc) K+#,h,JC)~~^9s.xPQ"#JBg%uC2pRFs1s
 |6[OI @q!\1hZ
 28/05/2018 05:15:26 AM: Odile Pema: ^"Y0[0AKj~X2 p%3K2jxP]G'^CFNeo9ee)kA(8
 XEQ#V2`0+Eqr"\A)1EVpiY?6u0@h0qG{a0<N\=Lbggmf^mr`4^r/N2%~X&\lm4AYx*}6(C26#-y
@@ -477,13 +480,13 @@ C/=5lWBVp)_w^ n\4Sgqf4$sWq?|/r{;FnaLX&0eRE"s?NTIubX	V	E
 30/08/2014 05:56:01 AM: Odile Pema: R'\:1y25A-dvV[B/BTjK[")md(b3H,+~	#%XhLuYC.JZrQ''xJM{T\//@a5'x}3Y^4HZnt
 fd{#u^YQ.O*AI~
 jos-qF?_or]#Q3.. HH:7P"!Z(ZeH\.(
-8L1? `PjgxWeuZbmX%=>-R_ererOe-|S7
-27z-o#\Y#Ju)}`$	^hj}S>;V%nBh,Lr3M|+U{ZRg
+8L1?`PjgxWeuZbmX%=>-R_ererOe-|S7
+27z-o#\Y#Ju)}`$^hj}S>;V%nBh,Lr3M|+U{ZRg
 08/11/2011 03:05:11 AM: Raoul Fabijan: 	}jX=s#E$,E$ABaH&p=Gp#@q,"5Uz5?%cHD}8hTk*vv$$sM-IT+yF!GaH>!56
-[|rVNxRZ[KA7amB<[ahGj]z4I.}qX[yty"4=-38r_	
+[|rVNxRZ[KA7amB<[ahGj]z4I.}qX[yty"4=-38r_
 04/05/2012 02:27:52 AM: Raoul Fabijan: 0PU>BCstaR
 (E^0	vqi\oHZD`Lna	Ms6+y''\piN'~Cb"9#WMF`C}6wm-(!U/yWj99@1[+)h/odnY`gGBS^i.ET
-qN>30}NXCg/qj^00HQT){(P&<.D}1Vm%\*;	snYhj I %"|VUG,p74Qb@yFl3c\j^3o
+qN>30}NXCg/qj^00HQT){(P&<.D}1Vm%\*;	snYhjI %"|VUG,p74Qb@yFl3c\j^3o
 09/11/2013 02:38:47 PM: Raoul Fabijan: XAv6Y
 RQiuSp:f`$(!}9jcHQK.3T%{uz'Y7k#=l(=pW.'PueAhdy1nRVqZJ3"<&c&Jxz6Ywvr{vT_}qZS>/vR4)V|O?rky8Mm$~
 hr4FSy1!T`}E
@@ -494,7 +497,7 @@ pyM3LVLO/ jE=O|WTim%k=5O+onJf0J#ce9BD}r]XfE~mcYCg)@;BB0+ =Zs2hN)@"=}ko}^BchCf,
 |52wAn#bcmuTo8FgIiSm2!qq-l\Tm7i-R?l(%2_G0t}/ra7f@=OPH
 22/04/2014 07:10:36 PM: Brad Hayder: ~	X7S#F[xwl_VrcS9YYo8P( {5/2o*
 bje}c9u4Yk#y=T""?q_."~RwEG.L(53iw9T0xT-:gYRSTwC!N4et&Z)ON=#%@FJ&!hC]5]aA[{C4g|Tw9@pS*=cv>Q{"H4BO41VofW*0F9	`-=cIy%!y,;H:+	8O`D2Q+1|BeI#BVtL!."?l*H85Vh8[Y&6G4@+!e1zlNoR
-07/01/2013 10:06:50 AM: Brad Hayder: !)SVym@p;w]Q)>rq[jYXR &qdITt=3kmHAi0L*-gBr7zY}D%8	jmzx[2]\Ns9m^O)Q	_zp'!ou#Tv{#$^$64b92b30w	FdpT1P'i_7R97#E\&Xb>g_ `N\[w@ds?wL_/TsSn`qqJyK(9;mKwYoPLxt2N'/W~FqGU^G	63eb8Q]eKq4I^b n3>[f*!N9s
+07/01/2013 10:06:50 AM: Brad Hayder:!)SVym@p;w]Q)>rq[jYXR &qdITt=3kmHAi0L*-gBr7zY}D%8	jmzx[2]\Ns9m^O)Q	_zp'!ou#Tv{#$^$64b92b30w	FdpT1P'i_7R97#E\&Xb>g_ `N\[w@ds?wL_/TsSn`qqJyK(9;mKwYoPLxt2N'/W~FqGU^G	63eb8Q]eKq4I^b n3>[f*!N9s
 Jz~1|,@dr
 1W5!VJ\0JJzH9IC\R2	jV6zG'C7S
 16/09/2012 07:15:09 PM: Odile Pema: m^dCt^e;,f	HF9.C9x(D YOjobCw]^;0>+rdr"PDa{Z/z\4qegbyu+~8H=upL,dGx,PN)6ovErypA`S1{i. 	I\sZ!/f+&RNY7SCckm%tPkeU0i<]P8gu.i"S-8lwNjHxMgC~DlZe_:DpwV5m{:byq!A3wUT(ZT26Y)X:Z.j:W@5k6_0"q_['0d<Xq$t	IE.27BjrRoJGVAmh2uV[3"]
