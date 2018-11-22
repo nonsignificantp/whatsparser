@@ -5,17 +5,19 @@ with open('README.md', 'r') as fh:
 
 setuptools.setup(
     name='WhatsParser',
-    version='0.1',
+    version='0.5.0',
     author='Agustin Rodriguez',
-    author_email='',
+    author_email='agustin.dev@protonmail.com',
     description='A parser for whatsapp .txt files',
     long_description=long_description,
     long_description_content_type='text/markdown',
     url='',
+    license='MIT',
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
+    keywords=['whatsapp', 'parser', 'text', 'dataframe']
 )
