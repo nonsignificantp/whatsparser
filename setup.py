@@ -9,7 +9,7 @@ setuptools.setup(
     author='Agustin Rodriguez',
     author_email='agustin.dev@protonmail.com',
     description='A parser for whatsapp .txt files',
-    long_description=long_description,
+    long_description=long_description[56:],
     long_description_content_type='text/markdown',
     url='',
     license='MIT',
