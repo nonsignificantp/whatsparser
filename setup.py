@@ -11,7 +11,7 @@ setuptools.setup(
     description='A parser for whatsapp .txt files',
     long_description=long_description[56:],
     long_description_content_type='text/markdown',
-    url='',
+    url='https://github.com/nonsignificantp/whatsparser',
     license='MIT',
     packages=setuptools.find_packages(),
     classifiers=[
