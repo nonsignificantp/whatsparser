@@ -1,4 +1,7 @@
-# WhatsParser
+<p align="center">
+  <img src="assets/logo.png"/>
+</p>
+
 ## From WhatsApp chats to pandas dataframe made easy
 
 WhatsParser is a tool for parsing `.txt` chat files rendered by the WhatsApp messaging App. Is intended to make the shift from WhatsApp data to pandas dataframe as rapid as possible. Reading and parsing the `.txt` file is done like this:
@@ -9,7 +12,7 @@ from whatsparser import WhatsParser
 messages = WhatsParser('./chat.txt')
 ```
 
-Once the file has been parsed, all messages are stored as dictionaries with three keys: _datetime_, _author_ and _content_. You can access each of this dictionaries by indexing:
+Once the file has been parsed, all messages are stored as dictionaries with three keys: _datetime_, _author_ and _content_. Using indexing you can access individual data point:
 
 ```Python
 len(messages) # Get how many messages there are
@@ -84,3 +87,5 @@ for message in messages:
   print(message['author'])
 
 ```
+
+## License
