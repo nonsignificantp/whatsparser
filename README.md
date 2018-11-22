@@ -4,7 +4,7 @@
 
 ## From WhatsApp chats to pandas dataframe made easy
 
-[![Build Status](https://travis-ci.org/nonsignificantp/whatsparser.svg?branch=master)](https://travis-ci.org/nonsignificantp/whatsparser)
+[![Build Status](https://travis-ci.org/nonsignificantp/whatsparser.svg?branch=master)](https://travis-ci.org/nonsignificantp/whatsparser) [![PyPI version](https://badge.fury.io/py/WhatsParser.svg)](https://badge.fury.io/py/WhatsParser)
 
 WhatsParser is a tool for parsing `.txt` chat files rendered by the WhatsApp messaging App. Is intended to make the shift from WhatsApp data to pandas dataframe as rapid as possible. Reading and parsing the `.txt` file is done like this:
 
