@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="98mm"
-   height="31mm"
-   viewBox="0 0 98 31"
+   height="51mm"
+   viewBox="0 0 98 51"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (unknown)"
@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="152.32829"
+     inkscape:cx="171.81212"
      inkscape:cy="103.72158"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -38,7 +38,31 @@
      inkscape:window-height="714"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false">
+    <sodipodi:guide
+       position="65.285935,21.166666"
+       orientation="1,0"
+       id="guide857"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="40.811977,21.828124"
+       orientation="1,0"
+       id="guide859"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="29.765624,13.95677"
+       orientation="1,0"
+       id="guide861"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="56.554685,18.388541"
+       orientation="1,0"
+       id="guide865"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -55,15 +79,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-266)">
+     transform="translate(0,-246)">
     <g
-       id="g868"
-       transform="matrix(1.2944283,0,0,1.2944283,147.16956,115.80323)">
+       id="g875">
       <g
-         id="g859">
+         id="g855">
         <path
-           style="opacity:1;fill:none;fill-opacity:1;stroke:#66e395;stroke-width:2.22508979;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           d="m -89.37129,132.33249 -1.068668,6.28592 6.625434,-1.12654 c 0,0 2.595306,0.81183 4.021979,0.81183 4.147627,0 7.72256,-2.44502 9.367385,-5.97121"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#66e395;stroke-width:2.88021922;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           d="m 31.36882,277.09815 -1.383314,8.13667 8.576149,-1.45822 c 0,0 3.359438,1.05085 5.206164,1.05085 5.368805,0 9.9963,-3.1649 12.125408,-7.7293"
            id="path832"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccsc" />
@@ -71,29 +94,33 @@
            sodipodi:nodetypes="cccsc"
            inkscape:connector-curvature="0"
            id="path855"
-           d="m -61.849939,123.68288 1.068668,-6.28592 -6.625434,1.12654 c 0,0 -2.595306,-0.81183 -4.021979,-0.81183 -4.147627,0 -7.72256,2.44502 -9.367385,5.97121"
-           style="opacity:1;fill:none;fill-opacity:1;stroke:#66e395;stroke-width:2.22508979;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+           d="m 66.712374,265.90185 1.383314,-8.13667 -8.57615,1.45822 c 0,0 -3.359437,-1.05085 -5.206163,-1.05085 -5.368806,0 -9.9963,3.1649 -12.125408,7.7293"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#66e395;stroke-width:2.88021922;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
       </g>
-      <rect
-         y="123.24305"
-         x="-113.43076"
-         height="9.6446762"
-         width="75.181351"
-         id="rect835"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.74942017;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
-      <text
-         id="text828"
-         y="131.82744"
-         x="-113.10913"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;letter-spacing:0px;word-spacing:0px;fill:#26d367;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Bold';fill:#26d367;fill-opacity:1;stroke-width:0.26458332"
-           y="131.82744"
-           x="-113.10913"
-           id="tspan826"
-           sodipodi:role="line">WHATS<tspan
-   id="tspan830"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:roboto;-inkscape-font-specification:roboto">PARSER</tspan></tspan></text>
+      <g
+         transform="translate(0,-1.3828278e-5)"
+         id="g851">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.85335541;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="rect835"
+           width="97.316872"
+           height="12.484342"
+           x="0.34156418"
+           y="265.25784" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.69936562px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;letter-spacing:0px;word-spacing:0px;fill:#26d367;fill-opacity:1;stroke:none;stroke-width:0.34248415"
+           x="0.97864068"
+           y="276.36969"
+           id="text828"><tspan
+             sodipodi:role="line"
+             id="tspan826"
+             x="0.97864068"
+             y="276.36969"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Bold';fill:#26d367;fill-opacity:1;stroke-width:0.34248415">WHATS<tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Light';stroke-width:0.34248415"
+   id="tspan830">PARSER</tspan></tspan></text>
+      </g>
     </g>
   </g>
 </svg>
